@@ -1,0 +1,12 @@
+C:\Users\cam20\Downloads\CRISTÓBAL GITHUB\Examen Rapido Cris\Examen Rapido Cris\bin\Debug\Examen Rapido Cris.exe.config
+C:\Users\cam20\Downloads\CRISTÓBAL GITHUB\Examen Rapido Cris\Examen Rapido Cris\bin\Debug\Examen Rapido Cris.exe
+C:\Users\cam20\Downloads\CRISTÓBAL GITHUB\Examen Rapido Cris\Examen Rapido Cris\bin\Debug\Examen Rapido Cris.pdb
+C:\Users\cam20\Downloads\CRISTÓBAL GITHUB\Examen Rapido Cris\Examen Rapido Cris\bin\Debug\Examen Rapido Cris.xml
+C:\Users\cam20\Downloads\CRISTÓBAL GITHUB\Examen Rapido Cris\Examen Rapido Cris\obj\Debug\Examen Rapido Cris.vbprojAssemblyReference.cache
+C:\Users\cam20\Downloads\CRISTÓBAL GITHUB\Examen Rapido Cris\Examen Rapido Cris\obj\Debug\Examen_Rapido_Cris.Form1.resources
+C:\Users\cam20\Downloads\CRISTÓBAL GITHUB\Examen Rapido Cris\Examen Rapido Cris\obj\Debug\Examen_Rapido_Cris.Resources.resources
+C:\Users\cam20\Downloads\CRISTÓBAL GITHUB\Examen Rapido Cris\Examen Rapido Cris\obj\Debug\Examen Rapido Cris.vbproj.GenerateResource.cache
+C:\Users\cam20\Downloads\CRISTÓBAL GITHUB\Examen Rapido Cris\Examen Rapido Cris\obj\Debug\Examen Rapido Cris.vbproj.CoreCompileInputs.cache
+C:\Users\cam20\Downloads\CRISTÓBAL GITHUB\Examen Rapido Cris\Examen Rapido Cris\obj\Debug\Examen Rapido Cris.exe
+C:\Users\cam20\Downloads\CRISTÓBAL GITHUB\Examen Rapido Cris\Examen Rapido Cris\obj\Debug\Examen Rapido Cris.xml
+C:\Users\cam20\Downloads\CRISTÓBAL GITHUB\Examen Rapido Cris\Examen Rapido Cris\obj\Debug\Examen Rapido Cris.pdb
